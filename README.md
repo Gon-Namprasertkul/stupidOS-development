@@ -1,5 +1,5 @@
 # stupidOS-development
-This is an official development version of stupidOS
+This is an official source code of stupidOS development version
 
 #requirement
 
